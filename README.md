@@ -1,7 +1,7 @@
 [![Banner](https://github.com/shivampal-ofc/shivampal-ofc/blob/main/banner_readme.png)](https://github.com/shivampal-ofc)
 
 <h1 align="center">👋 Hey, I'm Shivam Pal</h1>
-<h3 align="center">Full Stack Developer | MERN Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Open Source Contributor</h3>
 <h4 align="center">Building scalable web applications & solving real-world problems with code 🚀</h4>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 ### 🎯 About Me
 
-- 🌱 Currently mastering **Java, MERN Stack & Cloud Technologies**
+- 🌱 Currently mastering **MERN Stack, DSA with Java & Cloud Technologies**
 - 💼 Building projects with **Node.js, React, MongoDB & AWS**
 - 👯 Open to collaborating on **Web Applications, Websites & Innovative Projects**
 - 🤝 Seeking help with **Scalable Architecture & Advanced Web Technologies**
@@ -179,5 +179,7 @@
 
 <h3 align="center">Let's build something amazing together! 🚀</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-pink?style=flat-square" alt="Made with Love" />
+  <a href="https://in.linkedin.com/in/shivampal-ofc" target="_blank">
+    <img src="https://img.shields.io/badge/Made%20with-❤️-pink?style=flat-square" alt="Made with Love" />
+  </a>
 </p>
